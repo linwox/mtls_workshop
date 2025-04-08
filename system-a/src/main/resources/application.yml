@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: system-a
+
+server:
+  port: 8082

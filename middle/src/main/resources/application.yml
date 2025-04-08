@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: middle
+
+server:
+  port: 8083
